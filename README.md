@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meet Ghelani
-- 🌱 I’m studying in Silver Oak College of Engineering and Technology. Currently in 3rd year in Information Technology.
+- 🌱 I’m studying B.Tech in Information Technology. Currently in Third Year. 
 - 👀 I’m interested in Full Stack Development.
 - 💻 I'm Currently learning React JS. 
 <!---
