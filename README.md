@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=meet2960&show_icons=true&hide_border=true)&nbsp;&nbsp;" alt="stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet2960&theme=highcontrast" alt="Streaks">
 </div>
+<div style:"display:flex; justify-content:center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meet2960&layout=compact&langs_count=8&hide_border=true" alt="Programming_Stats">
+</div>
