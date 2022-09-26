@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet2960&theme=highcontrast" alt="Streaks">
 </div>
 <div>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meet2960&layout=compact&langs_count=8&hide_border=true" alt="Programming_Stats" style="  display: block;margin-left: auto;margin-right: auto;width: 50%;">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meet2960&layout=compact&langs_count=8&hide_border=true" alt="Programming_Stats" style="  display: block;margin-left: auto;margin-right: auto;">
 </div>
