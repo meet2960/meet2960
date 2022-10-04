@@ -8,8 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr>
 <div style="display:grid; justify-content:space-between">
-<!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meet2960&layout=compact&langs_count=8&hide_border=true" alt="Programming_Stats" > -->
-<img src="https://github-readme-stats.vercel.app/api?username=meet2960&show_icons=true&hide_border=true)&nbsp;&nbsp;" alt="stats" height="150px">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meet2960&layout=compact&langs_count=8&hide_border=true" alt="Programming_Stats" height="150px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet2960&theme=highcontrast" alt="Streaks" height="150px">
 </div>
 
