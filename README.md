@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 <div style="display:grid; justify-content:space-between">
 <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet2960&theme=highcontrast" alt="stats" height="150px"> -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meet2960&layout=compact&langs_count=8&hide_border=true" alt="Programming_Stats" height="150px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet2960&theme=highcontrast" alt="new">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=meet2960" alt="stats" height="150px">
 </div>
 
