@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <div style="display:grid; justify-content:space-between">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meet2960&layout=compact&langs_count=8&hide_border=true" alt="Programming_Stats" height="150px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meet2960&theme=highcontrast" alt="Streaks" height="150px">
+<img src"https://github-readme-streak-stats.herokuapp.com/?user=meet2960&theme=highcontrast" height="150px" alt="stats">
 </div>
 
